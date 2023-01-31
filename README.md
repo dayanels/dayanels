@@ -10,9 +10,9 @@
 
 ### 🛠 Technologies and tools:
 
-<div style="display:flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 32px; margin-top: 36px;">
+<div>
 
-<img   width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img style="margin: 32px 32px"  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
 <img  width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 
