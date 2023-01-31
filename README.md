@@ -1,53 +1,53 @@
-# Hi there, I'm Dayane Lemos 😊
-<br>
+ <h2>Hi there, I'm Dayane Lemos &#x1F913 </h2>
 
-## Welcome to my GitHub ! 💙
+ <h4 align="center">Welcome to my GitHub !</h4>
 
 - 🔭 I’m currently working with technical support ...
 - 🌱 I’m currently studying to become a computer scientist....
-- 📫 How to contact me: 
-  
-  <img width="18px" src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/46/000000/external-mail-mail-vitaliy-gorbachev-blue-vitaly-gorbachev-9.png"/>  lemos.dayane.d@gmail.com
+- 📫 How to contact me:  lemos.dayane.d@gmail.com
 
 <br>
-<br>
-<br>
 
-## 🧑‍💻 Technologies and tools:
+### 🛠 Technologies and tools:
 
-<code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /></code>
-<code><img   width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img   width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code>
-<img  width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></code>
-<code><img   width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></code>
-<code><img   width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></code>
-<code><img  width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /></code>
-<code><img  width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /></code>
-<code><img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></code>
-<code><img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>     
+<div style="display:flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 32px; margin-top: 36px;">
 
-<br>
-<br>
-<br>
+[<img   width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />](https://pt-br.reactjs.org/)
 
-<div>
-<a href="https://github.com/dayanels">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanels&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayanels&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+[<img  width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />](https://nodejs.org/en/)
+
+[<img   width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
+
+[<img width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactnative.dev/)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />](https://tailwindcss.com/)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />](https://dart.dev/)
+
+[<img  width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />](https://www.mysql.com/)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />](https://flutter.dev/)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />](https://www.postgresql.org/)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />](https://code.visualstudio.com/)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](https://www.php.net/)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />](https://www.google.com/intl/pt-BR/chrome/)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />](https://www.putty.org/)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />](https://www.debian.org/index.pt.html)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />](https://grafana.com/)
+
+[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />](https://www.docker.com/)
+
 </div>
-          
-          
-          
-
-<!--
-**dayanels/dayanels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
