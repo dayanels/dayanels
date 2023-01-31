@@ -11,100 +11,43 @@
 ### 🛠 Technologies and tools:
 
 <div style="display:flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 32px; margin-top: 36px;">
-<div>
 
-[<img   width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />](https://pt-br.reactjs.org/)
+<img   width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
-</div>
+<img  width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 
-<div>
+<img   width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
-[<img  width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />](https://nodejs.org/en/)
+<img width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-</div>
-<div>
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-[<img   width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
-</div>
-<div>
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 
-[<img width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactnative.dev/)
+<img  width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 
-</div>
-<div>
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-</div>
-<div>
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />](https://tailwindcss.com/)
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-</div>
-<div>
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />](https://dart.dev/)
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-</div>
-<div>
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
 
-[<img  width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />](https://www.mysql.com/)
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
 
-</div>
-<div>
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />](https://flutter.dev/)
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
 
-</div>
-<div>
+<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-</div>
-<div>
-
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />](https://www.postgresql.org/)
-
-</div>
-<div>
-
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-</div>
-<div>
-
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />](https://code.visualstudio.com/)
-
-</div>
-<div>
-
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](https://www.php.net/)
-
-</div>
-<div>
-
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />](https://www.google.com/intl/pt-BR/chrome/)
-
-</div>
-<div>
-
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />](https://www.putty.org/)
-
-</div>
-<div>
-
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />](https://www.debian.org/index.pt.html)
-
-</div>
-<div>
-
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />](https://grafana.com/)
-
-</div>
-<div>
-
-[<img  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />](https://www.docker.com/)
-
-</div>
 </div>
